@@ -5,17 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ish5ita" alt="ish5ita" /></a> </p>
 
-- 🌱 I’m currently expanding my skills in **Advanced Machine Learning**
 
-- 👯 I was working at [Bank of America](https://www.bankofamerica.com/) as a **Data Analyst**, specializing in **Big Data Technologies**
+- 🔭 I’m open to work
+  
+- -  🎓 I hold a **Distinction in MSc Data Science** from the **University of Essex, UK**
+
+- 👯 I worked at [Bank of America](https://www.bankofamerica.com/) as a **Data Analyst**, specializing in **Big Data Technologies**
 
 - 🧠 I have a strong foundation in **Azure Cloud Services**, **Analysis**, and **Automating Processes**
 
 - 👨‍💻 All of my projects are available at [Git repo](Git repo)
 
 - 💬 Ask me about **SQL,Python,Hadoop stack and Data Visualization**
-  
--  🎓 I hold a **Distinction in MSc Data Science** from the **University of Essex, UK**
   
 - 🏆 Certifications: **AZURE Fundamentals, AZURE AI Fundamentals**
 
