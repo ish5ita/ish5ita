@@ -31,14 +31,26 @@
 - **Real-Time Fraud Detection in Payment Systems:** Developed ML models that significantly improved fraud detection accuracy.
 - **Text-to-Image Generation Using Stable Diffusion:** Created an interactive web app transforming textual descriptions into vivid images.
 
-### Skills
-- **Tools:** Cloudera, Pepperdata, WXM, Tableau, Looker, Microsoft Excel, Power BI, ETL
-- **Programming:** Python (Pandas, NumPy, PyTorch, Scikit-learn, TensorFlow, NLTK, Spacy), R, C++, Java
-- **Big Data Technologies:** Hadoop Stack (Map Reduce, Apache Spark, Hive, Impala), Advanced SQL, MS SQL
-- **Operating System:** Linux
-- **Data Analysis & Modelling:** Machine Learning, Deep Learning, NLP, Hugging Face Transformers
-- **Agile Methodologies & Project Management Tools:** Agile, Jira, Confluence, GitHub
-- **Soft Skills:** Problem Solving, Strong Communication, Collaborative Teamwork, Technical Writing, Presentation
+### My Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="spark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
 
 ### Connect with me
 - 📧 Email: [ishitavidhi@gmail.com](mailto:ishitavidhi@gmail.com)
