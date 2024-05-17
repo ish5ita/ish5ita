@@ -1,21 +1,47 @@
 <h1 align="center">Hi 👋, I'm Ishita Agarwal</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">A Data Analyst and Big Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ish5ita&label=Profile%20views&color=0e75b6&style=flat" alt="ish5ita" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ish5ita" alt="ish5ita" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently expanding my skills in **Advanced Machine Learning**
 
-- 👯 I’m currently working at [Bank of America-](Hadoop Project)
+- 👯 I was working at [Bank of America](https://www.bankofamerica.com/) as a **Data Analyst**, specializing in **Big Data Technologies**
+
+- 🧠 I have a strong foundation in **Azure Cloud Services**, **Analysis**, and **Automating Processes**
 
 - 👨‍💻 All of my projects are available at [Git repo](Git repo)
 
-- 💬 Ask me about **SQL,Python,Hadoop stack**
+- 💬 Ask me about **SQL,Python,Hadoop stack and Data Visualization**
+  
+-  🎓 I hold a **Distinction in MSc Data Science** from the **University of Essex, UK**
+  
+- 🏆 Certifications: **AZURE Fundamentals, AZURE AI Fundamentals**
 
 - 📫 How to reach me **www.linkedin.com/in/ishitaagarwal5**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ishitaagarwal5](www.linkedin.com/in/ishitaagarwal5)
+
+### My Projects
+- **Text Classification and Offensive Speech Detection:** Implemented NLP techniques to identify offensive speech with an accuracy of 80.47%.
+- **Optimizing User Engagement:** Designed and executed A/B tests, resulting in a 20% increase in user engagement metrics.
+- **House Price Prediction and Market Analysis:** Analyzed housing market patterns and trends using statistical and ML methods.
+- **Real-Time Fraud Detection in Payment Systems:** Developed ML models that significantly improved fraud detection accuracy.
+- **Text-to-Image Generation Using Stable Diffusion:** Created an interactive web app transforming textual descriptions into vivid images.
+
+### Skills
+- **Tools:** Cloudera, Pepperdata, WXM, Tableau, Looker, Microsoft Excel, Power BI, ETL
+- **Programming:** Python (Pandas, NumPy, PyTorch, Scikit-learn, TensorFlow, NLTK, Spacy), R, C++, Java
+- **Big Data Technologies:** Hadoop Stack (Map Reduce, Apache Spark, Hive, Impala), Advanced SQL, MS SQL
+- **Operating System:** Linux
+- **Data Analysis & Modelling:** Machine Learning, Deep Learning, NLP, Hugging Face Transformers
+- **Agile Methodologies & Project Management Tools:** Agile, Jira, Confluence, GitHub
+- **Soft Skills:** Problem Solving, Strong Communication, Collaborative Teamwork, Technical Writing, Presentation
+
+### Connect with me
+- 📧 Email: [ishitavidhi@gmail.com](mailto:ishitavidhi@gmail.com)
+- 💼 LinkedIn: [Ishita Agarwal](https://www.linkedin.com/in/ishita-agarwal/)
 
 - ⚡ Fun fact **Painter by heart**
 
