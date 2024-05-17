@@ -8,7 +8,7 @@
 
 - 🔭 I’m open to work
   
-- -  🎓 I hold a **Distinction in MSc Data Science** from the **University of Essex, UK**
+- 🎓 I hold a **Distinction in MSc Data Science** from the **University of Essex, UK**
 
 - 👯 I worked at [Bank of America](https://www.bankofamerica.com/) as a **Data Analyst**, specializing in **Big Data Technologies**
 
