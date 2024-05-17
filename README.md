@@ -20,8 +20,6 @@
   
 - 🏆 Certifications: **AZURE Fundamentals, AZURE AI Fundamentals**
 
-- 📫 How to reach me **www.linkedin.com/in/ishitaagarwal5**
-
 - 📄 Know about my experiences [www.linkedin.com/in/ishitaagarwal5](www.linkedin.com/in/ishitaagarwal5)
 
 ### My Projects
@@ -85,9 +83,6 @@
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
   </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
