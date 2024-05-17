@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishita Agarwal</h1>
-<h3 align="center">A Data Analyst and Big Data Enthusiast</h3>
+<h3 align="center">Passionate about Data Engineering/Data Analytics & Visualization/Big Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ish5ita&label=Profile%20views&color=0e75b6&style=flat" alt="ish5ita" /> </p>
 
