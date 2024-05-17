@@ -22,6 +22,8 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/ishitaagarwal5](www.linkedin.com/in/ishitaagarwal5)
 
+ - ⚡ Fun fact **Painter by heart**
+
 ### My Projects
 - **Text Classification and Offensive Speech Detection:** Implemented NLP techniques to identify offensive speech with an accuracy of 80.47%.
 - **Optimizing User Engagement:** Designed and executed A/B tests, resulting in a 20% increase in user engagement metrics.
@@ -43,7 +45,7 @@
 - 📧 Email: [ishitavidhi@gmail.com](mailto:ishitavidhi@gmail.com)
 - 💼 LinkedIn: [Ishita Agarwal](https://www.linkedin.com/in/ishita-agarwal/)
 
-- ⚡ Fun fact **Painter by heart**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,9 +71,6 @@
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
   </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="spark" width="40" height="40"/>
-  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a> 
