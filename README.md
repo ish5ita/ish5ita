@@ -45,7 +45,7 @@
 ### Connect with me
 - 📧 Email: [ishitavidhi@gmail.com](mailto:ishitavidhi@gmail.com)
 - 💼 LinkedIn: [Ishita Agarwal](https://www.linkedin.com/in/ishita-agarwal/)
-- Portfolio :[Get to know me more]_(https://ish5ita.github.io/portfolio/)
+- Portfolio :[Get to know me more](https://ish5ita.github.io/portfolio/)
 
 
 
