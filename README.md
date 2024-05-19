@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishita Agarwal</h1>
 <h3 align="center">Passionate about Data Engineering/Data Analytics & Visualization/Big Data Enthusiast</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ish5ita&label=Profile%20views&color=0e75b6&style=flat" alt="ish5ita" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ish5ita" alt="ish5ita" /></a> </p>
@@ -44,6 +45,7 @@
 ### Connect with me
 - 📧 Email: [ishitavidhi@gmail.com](mailto:ishitavidhi@gmail.com)
 - 💼 LinkedIn: [Ishita Agarwal](https://www.linkedin.com/in/ishita-agarwal/)
+- Portfolio :[Get to know me more]_(https://ish5ita.github.io/portfolio/)
 
 
 
