@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ish5ita" alt="ish5ita" /></a> </p>
 
 ### Connect with me
--📧 Email: ishitavidhi@gmail.com
--💼 LinkedIn: Ishita Agarwal
--🗂️ Portfolio: Get to know me more
+- 📧 Email: ishitavidhi@gmail.com
+- 💼 LinkedIn: Ishita Agarwal
+- 🗂️ Portfolio: Get to know me more
 
   
 
