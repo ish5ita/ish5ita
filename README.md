@@ -13,7 +13,7 @@
 - 💼 LinkedIn: Ishita Agarwal
 - 🗂️ Portfolio: Get to know me more
 
-  
+### About me
 
 - 🔭 I’m open to work
   
