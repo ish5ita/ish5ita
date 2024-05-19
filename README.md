@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishita Agarwal</h1>
 <h3 align="center">Passionate about Data Engineering/Data Analytics & Visualization/Big Data Enthusiast</h3>
 
+### Connect with me
+- 📧 Email: [ishitavidhi@gmail.com](mailto:ishitavidhi@gmail.com)
+- 💼 LinkedIn: [Ishita Agarwal](https://www.linkedin.com/in/ishita-agarwal/)
+- Portfolio :[Get to know me more](https://ish5ita.github.io/portfolio/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ish5ita&label=Profile%20views&color=0e75b6&style=flat" alt="ish5ita" /> </p>
 
@@ -42,10 +47,7 @@
 - **Soft Skills:** Problem Solving, Strong Communication, Collaborative Teamwork, Technical Writing, Presentation
 
 
-### Connect with me
-- 📧 Email: [ishitavidhi@gmail.com](mailto:ishitavidhi@gmail.com)
-- 💼 LinkedIn: [Ishita Agarwal](https://www.linkedin.com/in/ishita-agarwal/)
-- Portfolio :[Get to know me more](https://ish5ita.github.io/portfolio/)
+
 
 
 
